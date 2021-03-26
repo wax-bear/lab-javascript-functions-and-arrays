@@ -267,6 +267,6 @@ const matrix = [
 
 ### Bonus - Iteration #8.1: Product of diagonals
 
-Following the logic you've used in iteration #8, declare a function called `greatestProductOfDiagonals(matrix)`. It takes a matrix as a parameter and returns the greatest product of any four values layed out diagonally, in either direction.
+Following the logic you have used in iteration #8, declare a function called `greatestProductOfDiagonals(matrix)`. It takes a matrix as a parameter and returns the greatest product of any four values layed out diagonally, in either direction.
 
 **Happy coding!** :heart:
